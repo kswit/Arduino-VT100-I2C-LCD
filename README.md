@@ -1,1 +1,1 @@
-# Arduino-VT100-I2C-LCD
+# Arduino VT100 I2C LCD
