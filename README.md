@@ -2,3 +2,5 @@
 
 Based on the design:
 https://github.com/TheLancashireman/lcdTerminal.git
+
+https://github.com/kswit/Arduino-VT100-I2C-LCD/blob/main/VT100.jpg
